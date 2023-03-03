@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jagadeesh0413
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java,c++
 - 💞️ I’m looking to collaborate on people with entreprenuial ideas
 - 📫 How to reach me ...jagadeeshwaran04012003@gmail.com
 
